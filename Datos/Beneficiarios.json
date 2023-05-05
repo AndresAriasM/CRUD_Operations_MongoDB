@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "6450b33663c8d9d4ca1bd7b7"
+  },
+  "ID_Beneficiario": 3,
+  "Nombre_Beneficiario": "Donald Trump",
+  "Municipio": "Bogotá"
+},{
+  "_id": {
+    "$oid": "6453405a7c44b49ce2c0b87e"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Jair Bolsonaro",
+  "Municipio": "Envigado"
+},{
+  "_id": {
+    "$oid": "645340687c44b49ce2c0b87f"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Tomás Cardona",
+  "Municipio": "Cali"
+},{
+  "_id": {
+    "$oid": "645341f0bc67ce85124c5c2a"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Carlos Montoya",
+  "Municipio": "La Pedrera"
+},{
+  "_id": {
+    "$oid": "64534201bc67ce85124c5c2b"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Tomás Perez",
+  "Municipio": "La Pedrera"
+},{
+  "_id": {
+    "$oid": "64534602ce554f22af67aaae"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Juan Dario Rodas",
+  "Municipio": "Bello"
+},{
+  "_id": {
+    "$oid": "6453464dce554f22af67aab0"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Vladimir Putin",
+  "Municipio": "Bogotá"
+},{
+  "_id": {
+    "$oid": "6453467ace554f22af67aab2"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "María Vélez",
+  "Municipio": "Bello"
+},{
+  "_id": {
+    "$oid": "64534693ce554f22af67aab3"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Álvaro Medina",
+  "Municipio": "Bogotá"
+},{
+  "_id": {
+    "$oid": "64536044fe03aa509d49ba6f"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Tomás Álvarez",
+  "Municipio": "Bello - Antioquia"
+},{
+  "_id": {
+    "$oid": "6453f554cf6eeb0f55f34fe0"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Christiam Camelo",
+  "Municipio": "Bello"
+},{
+  "_id": {
+    "$oid": "6454971d426cf2a9e58eec9a"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Andrés Arias",
+  "Municipio": "Marinilla"
+},{
+  "_id": {
+    "$oid": "6454972d426cf2a9e58eec9b"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Iván Amón",
+  "Municipio": "Cartagena"
+},{
+  "_id": {
+    "$oid": "6454973d426cf2a9e58eec9c"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Carmelo Vélez Senior",
+  "Municipio": "Bucaramanga"
+},{
+  "_id": {
+    "$oid": "64549758426cf2a9e58eec9d"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Enzo Pérez",
+  "Municipio": "Bello"
+},{
+  "_id": {
+    "$oid": "6454976e426cf2a9e58eec9e"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Juan Carlos Arboleda",
+  "Municipio": "La Pedrera"
+},{
+  "_id": {
+    "$oid": "64549782426cf2a9e58eec9f"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Ana Oviedo",
+  "Municipio": "Medellín"
+},{
+  "_id": {
+    "$oid": "6454979d426cf2a9e58eeca0"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Mariana Béltran",
+  "Municipio": "Medellín"
+},{
+  "_id": {
+    "$oid": "6454998f426cf2a9e58eeca6"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Viviana Vásquez",
+  "Municipio": "Bello"
+},{
+  "_id": {
+    "$oid": "64549999426cf2a9e58eeca7"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Lola Zuluaga",
+  "Municipio": "Copacabana"
+},{
+  "_id": {
+    "$oid": "645499a9426cf2a9e58eeca8"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Camilo Vélasquez ",
+  "Municipio": "Palmira"
+},{
+  "_id": {
+    "$oid": "645499b9426cf2a9e58eeca9"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Jorge Mario Santana",
+  "Municipio": "Medellín"
+},{
+  "_id": {
+    "$oid": "64549a14426cf2a9e58eecaa"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Valentina Torres",
+  "Municipio": "Cartagena"
+},{
+  "_id": {
+    "$oid": "64549a25426cf2a9e58eecab"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Juan José Sánchez",
+  "Municipio": "Bogotá"
+},{
+  "_id": {
+    "$oid": "64549cba6a29fece241e19d5"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Alberto Castrillón",
+  "Municipio": "Ibague"
+},{
+  "_id": {
+    "$oid": "64549d136a29fece241e19d8"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Lina Duque",
+  "Municipio": "Santa Marta"
+},{
+  "_id": {
+    "$oid": "64549d8c6a29fece241e19dc"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Ismael Lima",
+  "Municipio": "Chimichagua"
+},{
+  "_id": {
+    "$oid": "64549e136a29fece241e19e1"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Sandra López",
+  "Municipio": "Valledupar"
+},{
+  "_id": {
+    "$oid": "6454a00f6a29fece241e19eb"
+  },
+  "ID_Beneficiario": 0,
+  "Nombre_Beneficiario": "Jorge Mario Londoño",
+  "Municipio": "Chia"
+}]

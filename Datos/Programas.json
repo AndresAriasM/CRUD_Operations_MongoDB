@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6450a30d63c8d9d4ca1bd7a7"
+  },
+  "ID_Programa": 2,
+  "Nombre_Programa": "Juegos del Hambre",
+  "Valor": 322323557
+},{
+  "_id": {
+    "$oid": "6450ad39fc734f5de6d5f048"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Purga anual",
+  "Valor": 83589984
+},{
+  "_id": {
+    "$oid": "6450affcb0465e6d3302ca98"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Guerra Civil",
+  "Valor": 3688623
+},{
+  "_id": {
+    "$oid": "64513e07f6369bbb52e8cb1b"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Invasión a Ucrania",
+  "Valor": 7882332
+},{
+  "_id": {
+    "$oid": "645437c80f6bf2935e7c32d2"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Paro Internacional",
+  "Valor": 8778287
+},{
+  "_id": {
+    "$oid": "645456390e79f23dfe0d4e95"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Viaje a Marte",
+  "Valor": 3433232
+},{
+  "_id": {
+    "$oid": "645476549c41a426755a4b01"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Recuperar Panamá",
+  "Valor": 38238732
+},{
+  "_id": {
+    "$oid": "645498d6426cf2a9e58eeca3"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Conquista de Irak",
+  "Valor": 376232311
+},{
+  "_id": {
+    "$oid": "645498e7426cf2a9e58eeca4"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Misión Terrorista",
+  "Valor": 5428992
+},{
+  "_id": {
+    "$oid": "6454995b426cf2a9e58eeca5"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Ataque cibernetico",
+  "Valor": 7849334
+},{
+  "_id": {
+    "$oid": "64549dcf6a29fece241e19de"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Golpe de Estado",
+  "Valor": 43421232
+},{
+  "_id": {
+    "$oid": "6454a0766a29fece241e19ed"
+  },
+  "ID_Programa": 0,
+  "Nombre_Programa": "Secuestro de Duendes",
+  "Valor": 8998432
+}]

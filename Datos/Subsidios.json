@@ -1,0 +1,431 @@
+[{
+  "_id": {
+    "$oid": "645359b60843b74f9d7207d4"
+  },
+  "Beneficiario": "Donald Trump",
+  "ID_Subsidio": "XG8UD2ZS5RT8RRVEE1OA4ZVF5",
+  "Programa": "Invasión a Ucrania",
+  "Fecha": {
+    "$date": "2019-10-16T07:07:07.462Z"
+  }
+},{
+  "_id": {
+    "$oid": "645464a64d551686c392fffa"
+  },
+  "Beneficiario": "Juan Dario Rodas",
+  "ID_Subsidio": "CFFJ7KZ4Q641Z4RL6WP2NZWZ1",
+  "Programa": "Viaje a Marte",
+  "Fecha": {
+    "$date": "2023-05-05T02:06:22.406Z"
+  }
+},{
+  "_id": {
+    "$oid": "645476689c41a426755a4b02"
+  },
+  "Beneficiario": "Tomás Cardona",
+  "ID_Subsidio": "9KRF2VM6132V1Q3Y0X4VMI6ZX",
+  "Programa": "Paro Internacional",
+  "Fecha": {
+    "$date": "2023-05-05T03:22:10.867Z"
+  }
+},{
+  "_id": {
+    "$oid": "645476dc6d00064ea74d0240"
+  },
+  "Beneficiario": "Christiam Camelo",
+  "ID_Subsidio": "RN36HWN7MOLWMJYC25IA9NT89",
+  "Programa": "Invasión a Ucrania",
+  "Fecha": {
+    "$date": "2021-10-13T03:23:06.701Z"
+  }
+},{
+  "_id": {
+    "$oid": "645476f96d00064ea74d0241"
+  },
+  "Beneficiario": "Vladimir Putin",
+  "ID_Subsidio": "SFR548XICJ7GDC1J399PHQNSF",
+  "Programa": "Juegos del Hambre",
+  "Fecha": {
+    "$date": "2023-05-05T03:24:16.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "645477186d00064ea74d0242"
+  },
+  "Beneficiario": "Carlos Montoya",
+  "ID_Subsidio": "3VX7MD02NYDJO4PQ3DVXUDI00",
+  "Programa": "Recuperar Panamá",
+  "Fecha": {
+    "$date": "2023-05-03T03:25:00.272Z"
+  }
+},{
+  "_id": {
+    "$oid": "64547749103ce942d6fe15ab"
+  },
+  "Beneficiario": "Carlos Montoya",
+  "ID_Subsidio": "07G1QC41W84D7IFJBA5MR5OT4",
+  "Programa": "Paro Internacional",
+  "Fecha": {
+    "$date": "2023-04-05T03:25:43.474Z"
+  }
+},{
+  "_id": {
+    "$oid": "64547757103ce942d6fe15ac"
+  },
+  "Beneficiario": "Tomás Cardona",
+  "ID_Subsidio": "FRZGFHYG1ZT74KJBCWSMOI1M0",
+  "Programa": "Guerra Civil",
+  "Fecha": {
+    "$date": "2023-01-03T03:26:03.678Z"
+  }
+},{
+  "_id": {
+    "$oid": "6454776f103ce942d6fe15ad"
+  },
+  "Beneficiario": "María Vélez",
+  "ID_Subsidio": "9187IEGITE5IO8QGN5C6FULPS",
+  "Programa": "Viaje a Marte",
+  "Fecha": {
+    "$date": "2010-07-05T03:26:18.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "64547790685ce37c71cd3121"
+  },
+  "Beneficiario": "Álvaro Medina",
+  "ID_Subsidio": "N31DKK3GBDGH39ASXYRFG3H52",
+  "Programa": "Purga anual",
+  "Fecha": {
+    "$date": "2021-10-06T03:26:56.962Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549a5e426cf2a9e58eecac"
+  },
+  "Beneficiario": "Tomás Cardona",
+  "ID_Subsidio": "DU4W160WWNXTCWEQ475KCMZV4",
+  "Programa": "Misión Terrorista",
+  "Fecha": {
+    "$date": "2020-07-23T05:55:16.326Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549a6f426cf2a9e58eecad"
+  },
+  "Beneficiario": "Jair Bolsonaro",
+  "ID_Subsidio": "3W1279V094FO8RGKLALL6XMGB",
+  "Programa": "Recuperar Panamá",
+  "Fecha": {
+    "$date": "2021-11-26T05:55:45.649Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549aade414916c9e0e9565"
+  },
+  "Beneficiario": "Andrés Arias",
+  "ID_Subsidio": "AK2YX2LJBTJ8IM2JVH71OYTEA",
+  "Programa": "Ataque cibernetico",
+  "Fecha": {
+    "$date": "2023-02-14T05:56:51.412Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549abce414916c9e0e9566"
+  },
+  "Beneficiario": "Juan José Sánchez",
+  "ID_Subsidio": "QLOYMPSCYGLM1OSON7S3SQ2BO",
+  "Programa": "Ataque cibernetico",
+  "Fecha": {
+    "$date": "2014-07-11T05:57:03.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549adce414916c9e0e9567"
+  },
+  "Beneficiario": "Juan Dario Rodas",
+  "ID_Subsidio": "GK8TG6ONK6YU33TBY96NCR9GL",
+  "Programa": "Ataque cibernetico",
+  "Fecha": {
+    "$date": "2019-02-11T05:57:38.009Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549b08e414916c9e0e9568"
+  },
+  "Beneficiario": "Vladimir Putin",
+  "ID_Subsidio": "BGN6EZZQPH56QOSHFK8RG1T0B",
+  "Programa": "Conquista de Irak",
+  "Fecha": {
+    "$date": "2009-08-20T05:58:08.370Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549b16e414916c9e0e9569"
+  },
+  "Beneficiario": "Carmelo Vélez Senior",
+  "ID_Subsidio": "QT7G7OANF824IOYENO379CAPD",
+  "Programa": "Juegos del Hambre",
+  "Fecha": {
+    "$date": "2023-05-05T05:58:34.368Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549b29e414916c9e0e956a"
+  },
+  "Beneficiario": "Juan Dario Rodas",
+  "ID_Subsidio": "TIGAOFUMQXYVJ4DUHEN5QV982",
+  "Programa": "Recuperar Panamá",
+  "Fecha": {
+    "$date": "2018-05-22T05:58:48.108Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549b79e414916c9e0e956b"
+  },
+  "Beneficiario": "Viviana Vásquez",
+  "ID_Subsidio": "REF008VOAZKQ8N5RF15BY2Y9C",
+  "Programa": "Guerra Civil",
+  "Fecha": {
+    "$date": "2023-05-05T06:00:17.306Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549b85e414916c9e0e956c"
+  },
+  "Beneficiario": "Álvaro Medina",
+  "ID_Subsidio": "6UYJJ58ZYU4QF0LSBS5KWTW6I",
+  "Programa": "Paro Internacional",
+  "Fecha": {
+    "$date": "2023-05-05T06:00:27.404Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549b96e414916c9e0e956d"
+  },
+  "Beneficiario": "Camilo Vélasquez ",
+  "ID_Subsidio": "RRQ04WNZRJ9KECNZOZ1K5QTA8",
+  "Programa": "Purga anual",
+  "Fecha": {
+    "$date": "2016-02-25T06:00:39.467Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549c1aa214f22281d0cf0a"
+  },
+  "Beneficiario": "Tomás Perez",
+  "ID_Subsidio": "EAK7WTZTCFYR9Z3ZG32X0VEWN",
+  "Programa": "Guerra Civil",
+  "Fecha": {
+    "$date": "2023-05-05T06:02:55.489Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549c35a214f22281d0cf0b"
+  },
+  "Beneficiario": "Donald Trump",
+  "ID_Subsidio": "11VCEC0LTR0CR0Z9QQMCMEPTO",
+  "Programa": "Misión Terrorista",
+  "Fecha": {
+    "$date": "2014-03-07T06:03:08.185Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549c3ea214f22281d0cf0c"
+  },
+  "Beneficiario": "Lola Zuluaga",
+  "ID_Subsidio": "YS92UBSFEDM52CKBZ4ECUF8QK",
+  "Programa": "Viaje a Marte",
+  "Fecha": {
+    "$date": "2023-05-05T06:03:35.812Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549c50a214f22281d0cf0d"
+  },
+  "Beneficiario": "Jair Bolsonaro",
+  "ID_Subsidio": "M4F93W3CUT9JUI5Q0D88SS9K0",
+  "Programa": "Conquista de Irak",
+  "Fecha": {
+    "$date": "2017-03-01T06:03:51.677Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549c896a29fece241e19d4"
+  },
+  "Beneficiario": "Carmelo Vélez Senior",
+  "ID_Subsidio": "J2FMKYSULYDT3RQAI644C0FUX",
+  "Programa": "Ataque cibernetico",
+  "Fecha": {
+    "$date": "2015-06-17T06:04:44.481Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549cc96a29fece241e19d6"
+  },
+  "Beneficiario": "Alberto Castrillón",
+  "ID_Subsidio": "1EVOZ0ERUGROQ76IF7NTG3G11",
+  "Programa": "Ataque cibernetico",
+  "Fecha": {
+    "$date": "2019-02-20T06:05:48.799Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549d1a6a29fece241e19d9"
+  },
+  "Beneficiario": "Lina Duque",
+  "ID_Subsidio": "HL34NBWX4MJKDP0R2NGY2GARA",
+  "Programa": "Juegos del Hambre",
+  "Fecha": {
+    "$date": "2023-05-05T06:07:18.584Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549d936a29fece241e19dd"
+  },
+  "Beneficiario": "Ismael Lima",
+  "ID_Subsidio": "3QZPQCH6Y2IK2ZECYIN29AW56",
+  "Programa": "Invasión a Ucrania",
+  "Fecha": {
+    "$date": "2023-05-05T06:09:18.939Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549de56a29fece241e19df"
+  },
+  "Beneficiario": "Juan Dario Rodas",
+  "ID_Subsidio": "AJCFEPWOVOB6U31L18NU402NL",
+  "Programa": "Golpe de Estado",
+  "Fecha": {
+    "$date": "2012-11-02T06:10:27.158Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549df16a29fece241e19e0"
+  },
+  "Beneficiario": "Iván Amón",
+  "ID_Subsidio": "L8NZJRNATV8H33LMLPZE1VB0N",
+  "Programa": "Golpe de Estado",
+  "Fecha": {
+    "$date": "2023-05-05T06:10:48.013Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549e1f6a29fece241e19e2"
+  },
+  "Beneficiario": "Sandra López",
+  "ID_Subsidio": "3S6X3WXWU2NF3YO39V4SC9AAQ",
+  "Programa": "Misión Terrorista",
+  "Fecha": {
+    "$date": "2023-05-05T06:11:34.322Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549e296a29fece241e19e3"
+  },
+  "Beneficiario": "Carlos Montoya",
+  "ID_Subsidio": "FZDDTJ8ZV833V9ZI1WF0U07RA",
+  "Programa": "Guerra Civil",
+  "Fecha": {
+    "$date": "2020-07-23T06:11:45.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549e8e6a29fece241e19e4"
+  },
+  "Beneficiario": "Alberto Castrillón",
+  "ID_Subsidio": "63J0ULMXXLL1Z0QLHPMDNMEQ5",
+  "Programa": "Recuperar Panamá",
+  "Fecha": {
+    "$date": "2017-01-03T06:13:25.880Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549e9d6a29fece241e19e5"
+  },
+  "Beneficiario": "Ana Oviedo",
+  "ID_Subsidio": "PBGO2W88H4B7DFL3GYZR1SCZH",
+  "Programa": "Viaje a Marte",
+  "Fecha": {
+    "$date": "2023-05-05T06:13:40.482Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549ead6a29fece241e19e6"
+  },
+  "Beneficiario": "Andrés Arias",
+  "ID_Subsidio": "YP2NJP2ISK5P3BOWU0JSYO4O4",
+  "Programa": "Conquista de Irak",
+  "Fecha": {
+    "$date": "2007-06-22T06:13:51.204Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549ed26a29fece241e19e7"
+  },
+  "Beneficiario": "Enzo Pérez",
+  "ID_Subsidio": "NXKPYN0R0XO8GXWF2JYBN7A11",
+  "Programa": "Paro Internacional",
+  "Fecha": {
+    "$date": "2020-07-27T06:14:27.028Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549f0c6a29fece241e19e8"
+  },
+  "Beneficiario": "Álvaro Medina",
+  "ID_Subsidio": "XB0IHOX7VQJR522HX14KII0JA",
+  "Programa": "Purga anual",
+  "Fecha": {
+    "$date": "2020-02-07T06:14:44.570Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549f3d6a29fece241e19e9"
+  },
+  "Beneficiario": "Donald Trump",
+  "ID_Subsidio": "U73FKLTY86ID85U12ZMNIOB7W",
+  "Programa": "Viaje a Marte",
+  "Fecha": {
+    "$date": "2022-10-26T06:16:06.795Z"
+  }
+},{
+  "_id": {
+    "$oid": "64549f4b6a29fece241e19ea"
+  },
+  "Beneficiario": "Alberto Castrillón",
+  "ID_Subsidio": "N1OV4U3T2OEO1XDGJO6KORQG4",
+  "Programa": "Misión Terrorista",
+  "Fecha": {
+    "$date": "2023-05-26T06:16:31.942Z"
+  }
+},{
+  "_id": {
+    "$oid": "6454a01a6a29fece241e19ec"
+  },
+  "Beneficiario": "Jorge Mario Londoño",
+  "ID_Subsidio": "FNFKDEQXBZI6O6BD06LILYSRE",
+  "Programa": "Invasión a Ucrania",
+  "Fecha": {
+    "$date": "2023-05-05T06:20:01.944Z"
+  }
+},{
+  "_id": {
+    "$oid": "6454a0836a29fece241e19ee"
+  },
+  "Beneficiario": "Ana Oviedo",
+  "ID_Subsidio": "ZC08Y37C9U6X264YFLB379IGF",
+  "Programa": "Secuestro de Duendes",
+  "Fecha": {
+    "$date": "2022-12-26T06:21:45.117Z"
+  }
+},{
+  "_id": {
+    "$oid": "6454a08e6a29fece241e19ef"
+  },
+  "Beneficiario": "Juan Carlos Arboleda",
+  "ID_Subsidio": "G6C4AH2O37VMOSCWPY001QXNS",
+  "Programa": "Secuestro de Duendes",
+  "Fecha": {
+    "$date": "2023-05-16T06:21:57.967Z"
+  }
+}]

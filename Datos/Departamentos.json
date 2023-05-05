@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6926"
+  },
+  "Nombre_Departamento": "Atlantico",
+  "ID_Departamento": 1
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6927"
+  },
+  "Nombre_Departamento": "Bolivar",
+  "ID_Departamento": 2
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6928"
+  },
+  "Nombre_Departamento": "Huila",
+  "ID_Departamento": 3
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6929"
+  },
+  "Nombre_Departamento": "Cauca",
+  "ID_Departamento": 4
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf692a"
+  },
+  "Nombre_Departamento": "Magdalena",
+  "ID_Departamento": 5
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf692b"
+  },
+  "Nombre_Departamento": "Tolima",
+  "ID_Departamento": 6
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf692c"
+  },
+  "Nombre_Departamento": "Guaviare",
+  "ID_Departamento": 7
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf692d"
+  },
+  "Nombre_Departamento": "Casanare",
+  "ID_Departamento": 8
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf692e"
+  },
+  "Nombre_Departamento": "Cesar",
+  "ID_Departamento": 9
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf692f"
+  },
+  "Nombre_Departamento": "Cundinamarca",
+  "ID_Departamento": 10
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6930"
+  },
+  "Nombre_Departamento": "Quindio",
+  "ID_Departamento": 11
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6931"
+  },
+  "Nombre_Departamento": "Cordoba",
+  "ID_Departamento": 12
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6932"
+  },
+  "Nombre_Departamento": "Sucre",
+  "ID_Departamento": 13
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6933"
+  },
+  "Nombre_Departamento": "Caldas",
+  "ID_Departamento": 14
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6934"
+  },
+  "Nombre_Departamento": "Arauca",
+  "ID_Departamento": 15
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6935"
+  },
+  "Nombre_Departamento": "Antioquia",
+  "ID_Departamento": 16
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6936"
+  },
+  "Nombre_Departamento": "La Guajira",
+  "ID_Departamento": 17
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6937"
+  },
+  "Nombre_Departamento": "Nariño",
+  "ID_Departamento": 18
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6938"
+  },
+  "Nombre_Departamento": "Guainia",
+  "ID_Departamento": 19
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6939"
+  },
+  "Nombre_Departamento": "Norte de Santander",
+  "ID_Departamento": 20
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf693a"
+  },
+  "Nombre_Departamento": "Boyaca",
+  "ID_Departamento": 21
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf693b"
+  },
+  "Nombre_Departamento": "Caqueta",
+  "ID_Departamento": 22
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf693c"
+  },
+  "Nombre_Departamento": "Risaralda",
+  "ID_Departamento": 23
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf693d"
+  },
+  "Nombre_Departamento": "Santander",
+  "ID_Departamento": 24
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf693e"
+  },
+  "Nombre_Departamento": "Putumayo",
+  "ID_Departamento": 25
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf693f"
+  },
+  "Nombre_Departamento": "Amazonas",
+  "ID_Departamento": 26
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6940"
+  },
+  "Nombre_Departamento": "Valle del Cauca",
+  "ID_Departamento": 27
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6941"
+  },
+  "Nombre_Departamento": "Meta",
+  "ID_Departamento": 28
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6942"
+  },
+  "Nombre_Departamento": "San Andres",
+  "ID_Departamento": 29
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6943"
+  },
+  "Nombre_Departamento": "Bogotá",
+  "ID_Departamento": 30
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6944"
+  },
+  "Nombre_Departamento": "Choco",
+  "ID_Departamento": 31
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6945"
+  },
+  "Nombre_Departamento": "Vichada",
+  "ID_Departamento": 32
+},{
+  "_id": {
+    "$oid": "644fdfbbca233da424cf6946"
+  },
+  "Nombre_Departamento": "Vaupes",
+  "ID_Departamento": 33
+}]

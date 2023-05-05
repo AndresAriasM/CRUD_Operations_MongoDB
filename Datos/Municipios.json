@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "6450afad63c8d9d4ca1bd7b0"
+  },
+  "Nombre_Municipio": "Medellín",
+  "ID_Municipio": 1,
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "6450afad63c8d9d4ca1bd7b2"
+  },
+  "Nombre_Municipio": "Cali",
+  "ID_Municipio": 3,
+  "Departamento": "Valle del Cauca"
+},{
+  "_id": {
+    "$oid": "64510edf736bc901ebe5be9c"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Envigado",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "645114672864bd8780754d68"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Bucaramanga",
+  "Departamento": "Santander"
+},{
+  "_id": {
+    "$oid": "6451147a2864bd8780754d69"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Bogotá",
+  "Departamento": "Bogotá"
+},{
+  "_id": {
+    "$oid": "6451197b87146be1694ec1dd"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Llanogrande",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "64517aa1ad2340b80ec8435a"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Bello",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "64517aa9ad2340b80ec8435b"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Palmira",
+  "Departamento": "Valle del Cauca"
+},{
+  "_id": {
+    "$oid": "64517ac2ad2340b80ec8435c"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Itagüi",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "64517ae3ad2340b80ec8435d"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Rionegro",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "64517aecad2340b80ec8435e"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Marinilla",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "64517b25ad2340b80ec8435f"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Cartagena",
+  "Departamento": "Bolivar"
+},{
+  "_id": {
+    "$oid": "6452a9638322b53c3dbdeda2"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Ibague",
+  "Departamento": "Tolima"
+},{
+  "_id": {
+    "$oid": "6453415abc67ce85124c5c28"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Leticia",
+  "Departamento": "Amazonas"
+},{
+  "_id": {
+    "$oid": "645341dcbc67ce85124c5c29"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "La Pedrera",
+  "Departamento": "Amazonas"
+},{
+  "_id": {
+    "$oid": "6454987a426cf2a9e58eeca1"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Copacabana",
+  "Departamento": "Antioquia"
+},{
+  "_id": {
+    "$oid": "64549887426cf2a9e58eeca2"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Chia",
+  "Departamento": "Cundinamarca"
+},{
+  "_id": {
+    "$oid": "64549d046a29fece241e19d7"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Santa Marta",
+  "Departamento": "Magdalena"
+},{
+  "_id": {
+    "$oid": "64549d6d6a29fece241e19da"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Valledupar",
+  "Departamento": "Cesar"
+},{
+  "_id": {
+    "$oid": "64549d796a29fece241e19db"
+  },
+  "ID_Municipio": 0,
+  "Nombre_Municipio": "Chimichagua",
+  "Departamento": "Cesar"
+}]
