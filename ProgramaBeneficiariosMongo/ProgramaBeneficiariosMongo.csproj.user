@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\ActualizaBeneficiarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ActualizaMunicipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ActualizaPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ActualizaSubsidio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\BorrarBeneficiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\BorrarMunicipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\BorrarPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\BorrarSubsidio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\NuevoBeneficiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\NuevoMunicipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\NuevoPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\NuevoSubsidio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReporteBeneficiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReporteDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReporteMunicipios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReportePrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReporteSubsidio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
