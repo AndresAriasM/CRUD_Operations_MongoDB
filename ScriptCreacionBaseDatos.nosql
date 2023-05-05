@@ -1,0 +1,32 @@
+-- Script para la creación de la base de datos en MongoDB
+-- Curso de Tópicos Avanzados de base de datos - UPB 2023
+-- Proyecto: ProgramaBeneficiarios - NoSQL
+
+-- ###################################
+-- revisión de comandos
+-- ###################################
+
+-- Visualizar bases de datos disponibles
+show dbs
+
+-- Crear una base de datos
+use ProgramaBeneficiarios
+
+--visualizar base de datos actual
+db
+
+-- Si ya existe, "use" permite cambiar a otra DB
+use ProgramaBeneficiarios
+
+-- Para visualizar que colecciones existen
+show collections
+
+-- Crear una colección / tabla
+db.createCollection('Departamentos')
+db.createCollection('Municipios')
+db.createCollection('Programas')
+db.createCollection('Beneficiarios')
+db.createCollection('Subsidios')
+
+-- Los datos fueron subidos mediante archivos .JSON. Estos estan en el repositorio del trabajo.
+
