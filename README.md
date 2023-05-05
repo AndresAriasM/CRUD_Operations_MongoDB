@@ -3,7 +3,7 @@
 ### Andrés Arias Medina
 ### Tomás Cardona Montoya
 
-###Para la lectura de en MongoDB se sugiere hacerlo mediante los archivos .JSON puesto que los .CSV presentan problemas con los caracteres especiales.
+### Para la lectura de en MongoDB se sugiere hacerlo mediante los archivos .JSON puesto que los .CSV presentan problemas con los caracteres especiales.
 
 Operaciones CRUD implementadas en su totalidad. Por algunos errores técnicos tuvimos que iniciar el proyecto desde cero pero aún así se obtuvieron mejores resultados en comparación con el exámen anterior. En cuanto a errores solo hay uno presente; Este se encuentra en los formularios que requieren de selección en listas para hacer operaciones CRUD, dado el caso que se hunda el botón que ejecuta la operación sin antes haber escogido o rellenado todas las opciones requeridas, se dispara un error de sistema. De resto, todo funciona perfectamente y cumpliendo cada uno de los requerimientos del exámen anterior en cuanto a funcionamiento interno.
 
